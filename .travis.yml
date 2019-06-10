@@ -2,4 +2,4 @@ language: python
 # script: true
 
 # before_install: sudo pip install foo
-script: test.py
+script: ./test.py
